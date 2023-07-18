@@ -12,5 +12,6 @@ public class App
         System.out.println( "Hello World!" );
         System.out.println("just checking my maven job connection");
         System.out.println("checking checking or testing");
+        System.out.println("how are you");
     }
 }
