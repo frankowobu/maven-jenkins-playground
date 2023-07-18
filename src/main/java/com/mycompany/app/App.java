@@ -10,5 +10,7 @@ public class App
     {
         Thread.sleep(10);
         System.out.println( "Hello World!" );
+        System.out.println("just checking my maven job connection");
+        System.out.println("checking checking or testing");
     }
 }
